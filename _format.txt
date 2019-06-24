@@ -1,0 +1,11 @@
+name
+head_color
+chest_color
+left_upper_arm_color
+left_lower_arm_color
+right_upper_arm_color
+right_lower_arm_color
+left_upper_leg_color
+left_lower_leg_color
+right_upper_leg_color
+right_lower_leg_color
